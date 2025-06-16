@@ -33,14 +33,17 @@ def get_all_goods():
                     "prize": "A賞",
                     "types": [
                         {"id": 1, "initial": 4000, "stock": 3234},
-                        {"id": 2, "initial": 4000, "stock": 3200}
+                        {"id": 2, "initial": 4000, "stock": 3200},
+                        {"id": 3, "initial": 4000, "stock": 510},
+                        {"id": 4, "initial": 4000, "stock": 1200},
                     ]
                 },
                 "dice": {
                     "id": 1,
                     "prizes": [
-                        {"id": 1, "prize": "A賞", "initial": 4000, "stock": 3234},
-                        {"id": 2, "prize": "B賞", "initial": 4000, "stock": 3200}
+                        {"id": 1, "prize": "ポーチ", "initial": 4000, "stock": 3234},
+                        {"id": 2, "prize": "チャーム付きストラップキーホルダー", "initial": 4000, "stock": 3200},
+                        {"id": 3, "prize": "アクリルキーホルダー", "initial": 4000, "stock": 3200},
                     ]
                 }
             }
