@@ -41,9 +41,9 @@ def get_all_goods():
                 "dice": {
                     "id": 1,
                     "prizes": [
-                        {"id": 1, "prize": "ポーチ", "initial": 4000, "stock": 3234},
-                        {"id": 2, "prize": "チャーム付きストラップキーホルダー", "initial": 4000, "stock": 3200},
-                        {"id": 3, "prize": "アクリルキーホルダー", "initial": 4000, "stock": 3200},
+                        {"id": 1, "prize": "ポーチ", "initial": 1000, "stock": 1000},
+                        {"id": 2, "prize": "チャーム付きストラップキーホルダー", "initial": 1410, "stock": 1410},
+                        {"id": 3, "prize": "アクリルキーホルダー", "initial": 1448, "stock": 1448},
                     ]
                 }
             }
