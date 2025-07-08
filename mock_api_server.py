@@ -102,4 +102,4 @@ def user_record():
     return jsonify({"success": True, "data": data}), 201
 
 if __name__ == "__main__":
-    app.run(debug=True, port=8000)
+    app.run(debug=False, port=8000, use_reloader=False)
